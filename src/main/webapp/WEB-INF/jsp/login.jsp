@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>First Web Application</title>
+	<title>First Web Application [committed to GitHub]</title>
 </head>
 
 <body>
